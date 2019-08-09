@@ -6,3 +6,4 @@ git branch so easy
 <<<<<<< HEAD
 qwer AND 2lian
 what are you doing?
+bug fix
